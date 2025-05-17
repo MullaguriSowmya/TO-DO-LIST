@@ -57,7 +57,7 @@ canvas.create_text(
     anchor="nw",
     text="TO-DO  List",
     fill="#FFFFFF",
-    font=("Monoton Regular", 25 * -1)
+    font=("Monoton", 25 * -1)
 )
 
 # Input entry background
@@ -138,7 +138,7 @@ canvas.create_text(
     anchor="nw",
     text="Made by Sowmya",
     fill="#FFFFFF",
-    font=("JotiOne Regular", 8 * -1)
+    font=("Joti One Regular", 8 * -1)
 )
 
 window.resizable(False, False)
